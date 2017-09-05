@@ -20,5 +20,5 @@ And Ordered
 2.Is
 3.It
 
-And this is my, needing to be cleaned, [Itch.io] (https://joshuabonto.itch.io/)
+And this is my, needing to be cleaned, [Itch.io](https://joshuabonto.itch.io/)
 
